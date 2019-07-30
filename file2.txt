@@ -1,1 +1,2 @@
-echo "there"
+echo "hi there from your git profile"
+>>>>>>> 74a4951b9b76cda53bb18567d902718af1623212
