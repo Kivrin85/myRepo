@@ -1,0 +1,1 @@
+echo "I'm in file3, from the command line"
